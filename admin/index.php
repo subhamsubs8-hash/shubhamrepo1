@@ -33,7 +33,7 @@ $stmt_popular = $pdo->query("
 $popular_meals = $stmt_popular->fetchAll();
 ?>
 
-<!-- Header Title & Quick Action -->
+<!-- Header Title & Quick Action .-->
 <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
   <div>
     <h2 class="fw-bold text-dark mb-1">Kitchen Overview</h2>
