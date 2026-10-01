@@ -1,6 +1,6 @@
 <?php
 /**
- * PaushtikAahar Kitchen - Admin Add Meal
+ * PaushtikAahar Kitchen - Admin Add Meal.
  */
 
 require_once __DIR__ . '/../config/database.php';
