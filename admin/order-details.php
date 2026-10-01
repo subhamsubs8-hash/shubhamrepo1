@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Admin Order Detailed View & Status Updater
+ * PaushtikAahar Kitchen - Admin Order Detailed View & Status Updater
  */
 
 require_once __DIR__ . '/../config/database.php';

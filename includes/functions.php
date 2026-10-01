@@ -1,7 +1,7 @@
 <?php
 /**
  * Helper Functions
- * PowerPrep Kitchen - High-Protein Meal Ordering System
+ * PaushtikAahar Kitchen - High-Protein Meal Ordering System
  */
 
 // Escape HTML for secure output

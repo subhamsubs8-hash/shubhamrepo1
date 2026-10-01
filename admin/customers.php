@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Admin Customer Management
+ * PaushtikAahar Kitchen - Admin Customer Management
  */
 
 require_once __DIR__ . '/../config/database.php';

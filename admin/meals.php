@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Admin Meal Management Catalog
+ * PaushtikAahar Kitchen - Admin Meal Management Catalog
  */
 
 require_once __DIR__ . '/../config/database.php';

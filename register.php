@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Customer Registration
+ * PaushtikAahar Kitchen - Customer Registration
  */
 
 require_once __DIR__ . '/config/database.php';
@@ -61,7 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     'role'  => 'customer'
                 ];
                 login_user($user_data);
-                set_flash_message('success', 'Welcome to PowerPrep Kitchen, ' . $name . '! Your account is ready.');
+                set_flash_message('success', 'Welcome to PaushtikAahar Kitchen, ' . $name . '! Your account is ready.');
                 redirect('meals.php');
             } else {
                 $errors[] = 'Failed to create account. Please try again.';
@@ -82,7 +82,7 @@ require_once __DIR__ . '/includes/header.php';
           <div class="brand-icon mx-auto mb-2" style="background: #e8f3ef; color: #173F35; width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem;">
             <i class="bi bi-lightning-charge-fill"></i>
           </div>
-          <h2 class="fw-bold text-dark mb-1">Join PowerPrep</h2>
+          <h2 class="fw-bold text-dark mb-1">Join PaushtikAahar</h2>
           <p class="text-muted small">Create your account to order fresh high-protein meals</p>
         </div>
 

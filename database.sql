@@ -86,10 +86,10 @@ CREATE TABLE `settings` (
 
 -- Insert Settings
 INSERT INTO `settings` (`key_name`, `key_value`) VALUES
-('site_name', 'PowerPrep Kitchen'),
+('site_name', 'PaushtikAahar Kitchen'),
 ('tagline', 'High-Protein Meals Made Fresh For Your Fitness Goals'),
 ('cook_name', 'Chef Alex Reynolds'),
-('contact_email', 'alex@powerprepkitchen.com'),
+('contact_email', 'alex@PaushtikAaharkitchen.com'),
 ('contact_phone', '+1 (555) 349-7890'),
 ('delivery_fee', '3.99'),
 ('currency_symbol', '$'),

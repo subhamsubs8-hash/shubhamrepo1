@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Customer Account Profile
+ * PaushtikAahar Kitchen - Customer Account Profile
  */
 
 require_once __DIR__ . '/config/database.php';

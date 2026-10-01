@@ -1,4 +1,4 @@
-# PowerPrep Kitchen - High-Protein Meal Ordering Web Application
+# PaushtikAahar Kitchen - High-Protein Meal Ordering Web Application
 
 A complete, modern, responsive high-protein meal-prep ordering platform built for personal cooks and meal-prep businesses using **PHP 8+**, **MySQL (PDO)**, **HTML5**, **Vanilla CSS3**, and **Vanilla JavaScript**.
 

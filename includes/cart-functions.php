@@ -1,7 +1,7 @@
 <?php
 /**
  * Shopping Cart Management Module
- * PowerPrep Kitchen - High-Protein Meal Ordering System
+ * PaushtikAahar Kitchen - High-Protein Meal Ordering System
  */
 
 if (session_status() === PHP_SESSION_NONE) {

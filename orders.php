@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Order Tracking & Order History
+ * PaushtikAahar Kitchen - Order Tracking & Order History
  */
 
 require_once __DIR__ . '/config/database.php';

@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Meal Details & Macro Breakdown
+ * PaushtikAahar Kitchen - Meal Details & Macro Breakdown
  */
 
 require_once __DIR__ . '/config/database.php';

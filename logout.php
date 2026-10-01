@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Logout Handler
+ * PaushtikAahar Kitchen - Logout Handler
  */
 
 require_once __DIR__ . '/config/database.php';

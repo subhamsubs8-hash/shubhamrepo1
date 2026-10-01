@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Order Success / Confirmation
+ * PaushtikAahar Kitchen - Order Success / Confirmation
  */
 
 require_once __DIR__ . '/config/database.php';

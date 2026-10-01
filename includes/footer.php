@@ -10,7 +10,7 @@
             <div class="brand-icon" style="background: rgba(255,255,255,0.1); width: 36px; height: 36px; border-radius: 10px; display: flex; align-items: center; justify-content: center; color: #f59e0b;">
               <i class="bi bi-lightning-charge-fill fs-5"></i>
             </div>
-            <h4 class="text-white fw-bold mb-0">Power<span style="color: #f59e0b;">Prep</span></h4>
+            <h4 class="text-white fw-bold mb-0">Paushtik<span style="color: #f59e0b;">Aahar</span></h4>
           </div>
           <p class="text-white-50 pe-lg-4">
             Chef-crafted, nutrient-dense, high-protein meal prep designed to help you build lean muscle, recover faster, and fuel your active lifestyle without sacrificing flavor.
@@ -49,14 +49,14 @@
         <div class="col-lg-3 col-md-6">
           <h5>Kitchen & Cook</h5>
           <p class="text-white-50 mb-2">
-            <strong class="text-white"><?= e(get_setting('cook_name', 'Chef Alex Reynolds')) ?></strong><br>
+            <strong class="text-white"><?= e(get_setting('cook_name', 'Chef subham ')) ?></strong><br>
             <?= e(get_setting('address', '742 Evergreen Fitness Blvd')) ?>
           </p>
           <p class="text-white-50 mb-2">
-            <i class="bi bi-telephone-fill text-warning me-2"></i> <?= e(get_setting('contact_phone', '+1 (555) 349-7890')) ?>
+            <i class="bi bi-telephone-fill text-warning me-2"></i> <?= e(get_setting('contact_phone', '+977 000       000')) ?>
           </p>
           <p class="text-white-50 mb-2">
-            <i class="bi bi-envelope-fill text-warning me-2"></i> <?= e(get_setting('contact_email', 'alex@powerprepkitchen.com')) ?>
+            <i class="bi bi-envelope-fill text-warning me-2"></i> <?= e(get_setting('contact_email', 'subham@PaushtikAaharkitchen.com')) ?>
           </p>
           <p class="text-white-50 mb-0">
             <i class="bi bi-clock-fill text-warning me-2"></i> <?= e(get_setting('business_hours', 'Mon - Sat: 7am - 9pm')) ?>
@@ -67,7 +67,7 @@
       <!-- Bottom Bar -->
       <div class="footer-bottom text-center">
         <p class="mb-0">
-          &copy; <?= date('Y') ?> <strong>PowerPrep Kitchen</strong>. All Rights Reserved. Crafted for high-performance healthy nutrition.
+          &copy; <?= date('Y') ?> <strong>PaushtikAahar Kitchen</strong>. All Rights Reserved. Crafted for high-performance healthy nutrition.
         </p>
       </div>
     </div>

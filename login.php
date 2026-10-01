@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Login Portal
+ * PaushtikAahar Kitchen - Login Portal
  */
 
 require_once __DIR__ . '/config/database.php';
@@ -53,7 +53,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-$page_title = 'Log In to PowerPrep';
+$page_title = 'Log In to PaushtikAahar';
 require_once __DIR__ . '/includes/header.php';
 ?>
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Admin Kitchen Settings
+ * PaushtikAahar Kitchen - Admin Kitchen Settings
  */
 
 require_once __DIR__ . '/../config/database.php';
@@ -27,14 +27,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-$site_name = get_setting('site_name', 'PowerPrep Kitchen');
+$site_name = get_setting('site_name', 'PaushtikAahar Kitchen');
 $tagline = get_setting('tagline', 'High-Protein Meals Made Fresh For Your Goals');
-$cook_name = get_setting('cook_name', 'Chef Alex Reynolds');
-$contact_email = get_setting('contact_email', 'alex@powerprepkitchen.com');
-$contact_phone = get_setting('contact_phone', '+1 (555) 349-7890');
+$cook_name = get_setting('cook_name', 'Chef subham');
+$contact_email = get_setting('contact_email', 'subham@PaushtikAaharkitchen.com');
+$contact_phone = get_setting('contact_phone', '+977 0000000');
 $delivery_fee = get_setting('delivery_fee', '3.99');
 $currency_symbol = get_setting('currency_symbol', '$');
-$address = get_setting('address', '742 Evergreen Fitness Blvd, Suite 101');
+$address = get_setting('address', 'jawalakhel,lalitpur');
 $business_hours = get_setting('business_hours', 'Mon - Sat: 7:00 AM - 9:00 PM');
 
 $page_title = 'Kitchen Settings';

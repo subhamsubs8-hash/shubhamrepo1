@@ -1,5 +1,5 @@
 /**
- * PowerPrep Kitchen - Admin JavaScript Module
+ * PaushtikAahar Kitchen - Admin JavaScript Module
  */
 
 document.addEventListener('DOMContentLoaded', () => {

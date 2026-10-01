@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Admin Delete Meal Handler
+ * PaushtikAahar Kitchen - Admin Delete Meal Handler
  */
 
 require_once __DIR__ . '/../config/database.php';

@@ -1,7 +1,7 @@
 <?php
 /**
  * Admin Layout Header Component
- * PowerPrep Kitchen - High-Protein Meal Ordering System
+ * PaushtikAahar Kitchen - High-Protein Meal Ordering System
  */
 
 require_once __DIR__ . '/../../config/database.php';
@@ -12,7 +12,7 @@ require_admin('login.php');
 
 $current_user = current_user();
 $admin_page = basename($_SERVER['PHP_SELF']);
-$site_name = get_setting('site_name', 'PowerPrep Kitchen');
+$site_name = get_setting('site_name', 'PaushtikAahar Kitchen');
 ?>
 <!DOCTYPE html>
 <html lang="en">

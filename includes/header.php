@@ -1,7 +1,7 @@
 <?php
 /**
  * Global Header Component
- * PowerPrep Kitchen - High-Protein Meal Ordering System
+ * PaushtikAahar Kitchen - High-Protein Meal Ordering System
  */
 
 require_once __DIR__ . '/../config/database.php';
@@ -11,7 +11,7 @@ require_once __DIR__ . '/cart-functions.php';
 
 $cart_count = get_cart_count();
 $current_page = basename($_SERVER['PHP_SELF']);
-$site_name = get_setting('site_name', 'PowerPrep Kitchen');
+$site_name = get_setting('site_name', 'PaushtikAahar Kitchen');
 $tagline = get_setting('tagline', 'High-Protein Meals Made Fresh For Your Goals');
 ?>
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ $tagline = get_setting('tagline', 'High-Protein Meals Made Fresh For Your Goals'
         <div class="brand-icon">
           <i class="bi bi-lightning-charge-fill"></i>
         </div>
-        <div>Power<span>Prep</span></div>
+        <div>Paushtik<span>Aahar</span></div>
       </a>
 
       <!-- Right Mobile Actions (Cart + Hamburger) -->

@@ -1,6 +1,6 @@
 <?php
 /**
- * PowerPrep Kitchen - Shopping Cart
+ * PaushtikAahar Kitchen - Shopping Cart
  */
 
 require_once __DIR__ . '/config/database.php';
